@@ -1,0 +1,10 @@
+File Format Selection (PNG, JPG, BMP)
+Timestamp Watermark on screenshots
+Resolution Scaling option
+Progress Bar to show progress
+Parallel Processing for faster execution
+Time Range Selection for custom intervals
+Video Format Validation
+Automatic Folder Organization
+GIF/Timelapse Generation
+GUI Interface for ease of use
