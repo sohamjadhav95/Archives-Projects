@@ -23,7 +23,7 @@ browser_paths = [
     r"C:\Users\soham\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\24ec6ed44eebbe42\Personal 7 - Edge.lnk",
 ]
 
-csv_path = r"E:\Projects\Archives\Real Completed Projects\Browser Search Automation Script\general_search_queries_1000.csv"
+csv_path = r"E:\Projects\Archives-Projects\Real Completed Projects\Browser Search Automation Script\general_search_queries_1000.csv"
 
 num_loops = 14  # searches per browser
 wait_time = 3  # seconds between searches
