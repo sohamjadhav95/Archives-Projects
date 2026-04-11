@@ -1,0 +1,11 @@
+{
+    "chat.agent.enabled": false,
+    "chat.agent.codeBlockProgress": false,
+    "chat.agent.maxRequests": 0,
+    "chat.agent.thinking.collapsedTools": "off",
+    "chat.agent.thinking.generateTitles": false,
+    "chat.checkpoints.enabled": false,
+    "chat.detectParticipant.enabled": false,
+    "chat.disableAIFeatures": true,
+    "chat.exitAfterDelegation": true
+}
